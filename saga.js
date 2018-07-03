@@ -5,7 +5,7 @@ int main (void)
 
 printf("Enter name: \n")
 
-char n = a, b, c, d;
+char n = ;
 
 scanf(%s\n, n);
 
